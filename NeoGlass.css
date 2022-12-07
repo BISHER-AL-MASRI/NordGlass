@@ -1,0 +1,52 @@
+/**
+* @name NeoGlass
+* @version 1.0
+* @description An amazing Neo themed theme - Based on the Frosted Glass theme
+* @author Bisher-Almasri
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--background-image: url('https://static.vecteezy.com/system/resources/previews/002/072/648/non_2x/sunrise-at-the-futuristic-city-background-free-vector.jpg');
+--background-image-blur: 100px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/kYW2H5C.jpg');
+--popout-modal-blur: 100px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://cdn.allthings.how/wp-content/uploads/2020/09/allthings.how-how-to-create-an-aesthetic-iphone-home-screen-with-custom-app-icons-and-photo-widgets-discord-neon-aesthetic-2.png?width=700');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 103,58,183;
+--gradient-secondary: 63,81,181;
+--gradient-direction: 320deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 20px;
+--window-roundness: 10px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Roboto';
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
