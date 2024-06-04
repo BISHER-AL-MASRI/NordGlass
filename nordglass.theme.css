@@ -31,7 +31,7 @@
   --right-brightness: 0.04;
   --overlay-brightness: 0.82;
   --gradient-primary: 46,52,64;
-  --gradient-secondary: 59,66,82;
+  --gradient-secondary: 78,88,108;
   --link-colour: #5E81AC;
   --scrollbar-colour: rgb(67,76,94,1);
   --gradient-direction: 320deg;
@@ -55,7 +55,3 @@
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
 }
-
-/* Any custom CSS below here */
-
-
