@@ -4,9 +4,9 @@
 * @description An amazing Neo themed theme - Based on the Frosted Glass theme
 * @author Bisher-Almasri
 */
-@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-:root {
+/* @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css'); */
+:root { 
 --background-image: url('https://static.vecteezy.com/system/resources/previews/002/072/648/non_2x/sunrise-at-the-futuristic-city-background-free-vector.jpg');
 --background-image-blur: 100px;
 --background-image-size: cover;
